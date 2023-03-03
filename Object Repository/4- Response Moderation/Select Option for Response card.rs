@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select Option for Response card</name>
+   <tag></tag>
+   <elementGuidId>30d25eee-253c-437b-9e7d-fa2c988b6c3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fk-select-action']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ant-checkbox-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a8b7821d-3ff2-4f5d-9c2b-0509e80106d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-wrapper</value>
+      <webElementGuid>e89dd16a-04b6-4ce5-a983-1d7aa279058b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responseCard0&quot;)/div[@class=&quot;style__MediaSectionStyled-sc-10sxs54-0 jWffer fk-card-media-section&quot;]/div[@id=&quot;select-actions-wrapper&quot;]/div[@id=&quot;fk-select-action&quot;]/label[@class=&quot;ant-checkbox-wrapper&quot;]</value>
+      <webElementGuid>789309f5-2dea-48b2-9d9e-f80adc442f43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fk-select-action']/label</value>
+      <webElementGuid>a356c85b-fc6a-4d48-ad82-7ccdc9becee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support HTML Audio.'])[1]/following::label[1]</value>
+      <webElementGuid>e20a5635-2853-42d6-8171-6eb45d03b59c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::label[1]</value>
+      <webElementGuid>29a29f55-4420-4939-8046-9d37fdbe4857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::label[1]</value>
+      <webElementGuid>f170a31b-719c-40ec-b413-852ffd04be13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anonymous'])[1]/preceding::label[1]</value>
+      <webElementGuid>bf2a053d-6cc1-440e-96be-3de0cfcf9cb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>02a143b8-a044-4f8b-bf45-7630d98f5995</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

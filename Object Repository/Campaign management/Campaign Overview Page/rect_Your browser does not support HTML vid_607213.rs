@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rect_Your browser does not support HTML vid_607213</name>
+   <tag></tag>
+   <elementGuidId>6202304e-73d2-4496-bab3-f7e73a18bf66</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Rectangle_18</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//rect[@id = 'Rectangle_18']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>ca2cf38c-792b-416c-a936-4859945e9cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Rectangle_18</value>
+      <webElementGuid>a1b61074-95bf-48de-95ae-153361d65f65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Rectangle 18</value>
+      <webElementGuid>3c4f0e37-82fb-4795-a7a6-b0ecf7ac29db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>ce57b89d-948e-4486-87aa-3f8dd978bf35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>81ef636d-469d-4d4a-b7ae-db81c7929619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(726 467)</value>
+      <webElementGuid>541b78ea-9973-475c-aa3f-5016e518a5d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#fff</value>
+      <webElementGuid>3832a183-833c-4d00-b22f-f036db2f3be3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Rectangle_18&quot;)</value>
+      <webElementGuid>45b2bb88-79c2-4efc-a116-b9bed2e4ccba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//rect[@id = 'Rectangle_18']</value>
+      <webElementGuid>74f5833d-4f10-4756-93f5-457e529b2ddc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

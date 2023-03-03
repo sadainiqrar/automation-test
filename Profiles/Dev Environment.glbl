@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Dev Environment</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cisco.dev.fankave.com/admin/campaigns'</initValue>
+      <name>EnvURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>' '</initValue>
+      <name>ExperienceUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://dev.ccapps.fankave.com/cisco/feedback/'</initValue>
+      <name>HalfUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cisco.dev.fankave.com/admin/user-management'</initValue>
+      <name>EnvUrlforUserMgt</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cisco.dev.fankave.com/admin/auth/signin/credentials'</initValue>
+      <name>LoginUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>camp card id</description>
+      <initValue>'test'</initValue>
+      <name>campcardid</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'test'</initValue>
+      <name>campcardseemore</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

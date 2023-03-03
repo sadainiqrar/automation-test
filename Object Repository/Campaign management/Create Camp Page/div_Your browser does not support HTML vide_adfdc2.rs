@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Your browser does not support HTML vide_adfdc2</name>
+   <tag></tag>
+   <elementGuidId>0ef9cc9f-658d-4a5d-92d2-8774e5261214</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-column</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='card-container']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be2baae9-3099-4188-a92c-21e4b3f99ac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-column</value>
+      <webElementGuid>dd7e4050-643c-4161-95be-975e15f10743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your browser does not support HTML video.00:00 /00:04This is Question 01 for Testing?0%WWaqasi22mTagsKeywordTrackersTranscriptionHello, hello. Mike testing. Hello. Hello 1.Tags N/AAI insightsKeywords 1, hello, testing, mikeTrackers N/AShare</value>
+      <webElementGuid>b97ee2a3-7226-4e6a-9c6f-f3c129860901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card-container&quot;)/div[@class=&quot;card-column&quot;]</value>
+      <webElementGuid>c18a128f-8321-4c47-ab44-341a07e82cd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='card-container']/div</value>
+      <webElementGuid>565c1e29-8092-418e-baab-d29754f3215f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::div[13]</value>
+      <webElementGuid>84cad0df-429d-48cb-a7f9-c6f4a90ee5b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responses'])[2]/following::div[13]</value>
+      <webElementGuid>3a0a4fff-5d7b-4784-a1bd-e08a24b928c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div</value>
+      <webElementGuid>7014cef2-2b1d-429f-ac41-998a393b5934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your browser does not support HTML video.00:00 /00:04This is Question 01 for Testing?0%WWaqasi22mTagsKeywordTrackersTranscriptionHello, hello. Mike testing. Hello. Hello 1.Tags N/AAI insightsKeywords 1, hello, testing, mikeTrackers N/AShare' or . = 'Your browser does not support HTML video.00:00 /00:04This is Question 01 for Testing?0%WWaqasi22mTagsKeywordTrackersTranscriptionHello, hello. Mike testing. Hello. Hello 1.Tags N/AAI insightsKeywords 1, hello, testing, mikeTrackers N/AShare')]</value>
+      <webElementGuid>7fd6d41a-6d96-417c-9ac3-4648563e7b91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

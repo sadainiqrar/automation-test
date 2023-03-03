@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab Active campaign</name>
+   <tag></tag>
+   <elementGuidId>df7d809c-844c-4d90-b1f3-e040e382ee16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div[2]/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>8321566c-7ca2-4815-9d52-36daf493e65d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>50088a4b-f0c4-447c-96fd-7e1a466b7002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Active</value>
+      <webElementGuid>20c4aaab-d2cd-4813-8ca6-41a0d71d519d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 exXABA&quot;]/div[@class=&quot;dashboard-inner&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-7 hszqxc&quot;]/div[@class=&quot;style__SubHeaderStyled-sc-18x0jlo-0 ldZwRo&quot;]/div[@class=&quot;sharedStyles__UtilitiesDiv-sc-67rum6-1 iWidAI&quot;]/ul[@class=&quot;grouping&quot;]/li[@class=&quot;active&quot;]</value>
+      <webElementGuid>8e80eab1-dbc2-4a43-b5d4-bc37f6032fba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div[2]/ul/li</value>
+      <webElementGuid>b1bf2b8f-a375-4497-9a86-b559e936d1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- (19)'])[1]/following::li[1]</value>
+      <webElementGuid>6f02a1cb-b8b1-4fb4-bf74-c835bdc868be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaigns'])[2]/following::li[1]</value>
+      <webElementGuid>a9f31792-cd59-423a-af43-9aa225ed32f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived'])[1]/preceding::li[1]</value>
+      <webElementGuid>a24469bd-34b2-4bd8-b743-2bfa5f508fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drafts'])[1]/preceding::li[2]</value>
+      <webElementGuid>21658032-4687-4849-b2d1-e49cf083577f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Active']/parent::*</value>
+      <webElementGuid>1b4b5e1f-af0a-46a4-964d-380b462f3e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>85ab0235-0fed-4a02-a9d6-1088c635c54b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Active' or . = 'Active')]</value>
+      <webElementGuid>eb1bcfc7-7975-41d8-b95a-1d58ecf94da6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Finish</name>
+   <tag></tag>
+   <elementGuidId>d6afe7b2-b4c3-49dc-a0b8-2187902d4516</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div[2]/div[4]/div[2]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30e65853-6708-47de-ae1f-d949d380d43e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__FilledButton-sc-1hf2caz-1 ggcmDn</value>
+      <webElementGuid>e56424e8-3134-4344-847a-032bd17f002d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Finish</value>
+      <webElementGuid>d88b92c0-43eb-476b-b711-58632b893fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[2]/div[@class=&quot;style__CreateCampaignContainer-sc-1mcg5s1-0 jVOYPh&quot;]/div[@class=&quot;style__FormSection-sc-1mcg5s1-1 lkiFUg&quot;]/div[@class=&quot;sharedStyle__Container-sc-tx8g94-0 feWuAJ text-and-permissions&quot;]/div[@class=&quot;sharedStyle__StepButtonContainer-sc-tx8g94-3 hCkmDm&quot;]/div[@class=&quot;action-buttons&quot;]/div[@class=&quot;left-side&quot;]/button[@class=&quot;style__FilledButton-sc-1hf2caz-1 ggcmDn&quot;]</value>
+      <webElementGuid>520f15b7-3625-425b-9a06-510a9810c7fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div[2]/div[4]/div[2]/div/button[2]</value>
+      <webElementGuid>4c89d842-4cb6-47d2-9f53-9b4c4355a779</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::button[1]</value>
+      <webElementGuid>9924820a-e069-4282-8cd5-cac0afde4411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::button[2]</value>
+      <webElementGuid>ec076c47-deb2-4cae-aebf-b6226acea38f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Heading'])[1]/preceding::button[1]</value>
+      <webElementGuid>c051e36d-198b-4f14-beb6-453f52b9b7e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>073a5508-450c-4173-a835-b3a7f38d992c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Finish']/parent::*</value>
+      <webElementGuid>d7dd5aed-dcdf-4f9f-8844-12dc79dae7d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>827151d4-c76c-4580-837f-2634adb3b934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Finish' or . = 'Finish')]</value>
+      <webElementGuid>b7d539e6-e0b4-4af3-8bc1-fede40edd65f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

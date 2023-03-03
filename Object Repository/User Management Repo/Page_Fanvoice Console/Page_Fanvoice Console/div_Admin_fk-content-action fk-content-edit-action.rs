@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Admin_fk-content-action fk-content-edit-action</name>
+   <tag></tag>
+   <elementGuidId>698e29f5-d1ba-4ea0-aa56-85595eb36328</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fk-content-action.fk-content-edit-action</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div/table/tbody/tr/td[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bcf7c1ed-cdd1-4ad7-a8f7-449f783fea23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fk-content-action fk-content-edit-action</value>
+      <webElementGuid>de399e7d-90ac-4c4d-8999-c8bb5e99b967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[@class=&quot;style__UserContainer-sc-196pl6i-0 lfKsWp&quot;]/div[@class=&quot;styles__TableStyled-sc-l2wlbm-0 cRRSdY user-management-table&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;actions-column&quot;]/div[@class=&quot;actions&quot;]/div[@class=&quot;fk-content-action fk-content-edit-action&quot;]</value>
+      <webElementGuid>3d4d2381-4049-4701-9c91-10a410aa7b22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div/table/tbody/tr/td[3]/div/div</value>
+      <webElementGuid>9aa3ee57-ff09-41ad-80d4-7e3975183b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::div[2]</value>
+      <webElementGuid>f6a1f0f9-7128-4799-9874-37f57ab24b8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='waqas33@mailinator.com'])[1]/following::div[2]</value>
+      <webElementGuid>96ddcb50-3564-4252-94fd-c3b5210e5b99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='waqasahmed02468@gmail.com'])[1]/preceding::div[2]</value>
+      <webElementGuid>b0089958-46c0-40e3-8065-618a942c3600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/preceding::div[3]</value>
+      <webElementGuid>300d54d8-531b-4caf-a30b-cc0a40fb3f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/div</value>
+      <webElementGuid>78979569-7a2e-434c-8326-d025e9fba4c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

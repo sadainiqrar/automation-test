@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Featured Option on Response Card</name>
+   <tag></tag>
+   <elementGuidId>58d6b62f-000f-4e7c-9ae8-f9ba4ee658e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fk-feature-action']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fk-feature-action</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3454b962-d0fd-42d0-9e22-a814435892b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fk-feature-action ant-tooltip-open</value>
+      <webElementGuid>e32a3563-6e87-4942-872d-d4fb79b0e432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-feature-action</value>
+      <webElementGuid>22d42151-5551-4db2-acb7-14e4305c81f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responseCard0&quot;)/div[@class=&quot;style__MediaSectionStyled-sc-10sxs54-0 jWffer fk-card-media-section&quot;]/div[@class=&quot;style__ModerationActionsWrapper-sc-hrlvx2-1 cWbXSm fk-card-moderation-actions&quot;]/div[@id=&quot;fk-feature-action&quot;]</value>
+      <webElementGuid>1f97620d-ac31-48dd-b0c3-d3825634959f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='fk-feature-action']</value>
+      <webElementGuid>c383f5a8-4f54-4200-922b-127716a4032f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='responseCard0']/div/div[3]/div</value>
+      <webElementGuid>04ffc21e-6501-44a5-acaf-34b38482c887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support HTML Audio.'])[1]/following::div[11]</value>
+      <webElementGuid>fb5e0f34-5aef-4a52-81c6-03bcb1cb10ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::div[31]</value>
+      <webElementGuid>c90eb948-1837-44d8-a20d-0cfccc966996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::div[2]</value>
+      <webElementGuid>1f2198ac-c0e6-40ac-ae55-7c899b7bdd40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anonymous'])[1]/preceding::div[4]</value>
+      <webElementGuid>3c3afec7-65df-4631-8f87-4558a7fa3a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div/div/div/div/div[3]/div</value>
+      <webElementGuid>1334d2df-2e57-44a1-a3c1-38dee722f5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'fk-feature-action']</value>
+      <webElementGuid>f8230371-2065-4aab-812d-d8738bbb114d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

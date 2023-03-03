@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Admin_fk-content-action fk-content-delete-action</name>
+   <tag></tag>
+   <elementGuidId>d38ffe73-2ab3-498b-b083-e46697649472</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fk-content-action.fk-content-delete-action</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div/table/tbody/tr/td[3]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a088091c-d3b1-4962-a25f-4985e2567c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fk-content-action fk-content-delete-action</value>
+      <webElementGuid>eb71b54c-c132-4fd2-acfb-9087618efffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[@class=&quot;style__UserContainer-sc-196pl6i-0 lfKsWp&quot;]/div[@class=&quot;styles__TableStyled-sc-l2wlbm-0 cRRSdY user-management-table&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;actions-column&quot;]/div[@class=&quot;actions&quot;]/div[@class=&quot;fk-content-action fk-content-delete-action&quot;]</value>
+      <webElementGuid>9bfb8a54-da81-428a-8933-e175a0c545e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div/table/tbody/tr/td[3]/div/div[2]</value>
+      <webElementGuid>f019c402-1a2c-4e12-bde6-92a5c012a5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::div[3]</value>
+      <webElementGuid>6d859d24-6090-4345-87cf-eae4278e0bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='waqas33@mailinator.com'])[1]/following::div[3]</value>
+      <webElementGuid>f84cfc1b-4b48-4306-af6d-2ae443c01510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='waqasahmed02468@gmail.com'])[1]/preceding::div[1]</value>
+      <webElementGuid>c1e90b5e-4e5e-45a8-8bc5-139bc3acdfbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/preceding::div[2]</value>
+      <webElementGuid>ea0a8bf2-9fb6-49b0-be59-b8f91a361b21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/div[2]</value>
+      <webElementGuid>97f35361-8462-44ec-aafe-7605f61ed827</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

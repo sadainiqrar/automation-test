@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Submit button disabled</name>
+   <tag></tag>
+   <elementGuidId>223ef05a-0cab-4cdc-abda-ee72f12ec3a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fk-mobile-thankyou-screen']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.style__BrandHeading-sc-hb79k5-2.style__FormHeading-sc-1991k12-5.bBagrn.gRYfDa.fk-form-heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>48ffcc27-9b8c-4a06-932d-cb5a51282edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__BrandHeading-sc-hb79k5-2 style__FormHeading-sc-1991k12-5 bBagrn gRYfDa fk-form-heading</value>
+      <webElementGuid>115a6ec2-076d-4f06-8661-51ab9702897a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ありがとうございます</value>
+      <webElementGuid>b384819b-8ba2-415e-bd8b-ec6604cc4970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fk-mobile-thankyou-screen&quot;)/span[@class=&quot;style__BrandHeading-sc-hb79k5-2 style__FormHeading-sc-1991k12-5 bBagrn gRYfDa fk-form-heading&quot;]</value>
+      <webElementGuid>907919b5-7c03-4c18-9311-f66fa7cae9e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disabled id</name>
+      <type>Main</type>
+      <value>fk-submit-btn</value>
+      <webElementGuid>46f578b8-b692-4903-85fa-31228faa0048</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fk-mobile-thankyou-screen']/span[2]</value>
+      <webElementGuid>a122ab35-e4be-44b3-b94e-d8f1beeb1d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ありがとうございます'])[2]/following::span[1]</value>
+      <webElementGuid>d4ccd90f-a2be-4fe2-8254-5c1a958e3bb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ありがとうございます'])[1]/following::span[2]</value>
+      <webElementGuid>4c714fc7-eef6-45b3-bbf0-52272e1d8b7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='送信'])[1]/preceding::span[1]</value>
+      <webElementGuid>a0415b49-bec2-4d9b-9d06-763e0c63490c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
+      <webElementGuid>687c882f-6f79-4c9d-9de4-a776a1f848db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>f7ae5557-2078-4025-bbab-e1c4b948754b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'ありがとうございます' or . = 'ありがとうございます')]</value>
+      <webElementGuid>74a333ef-9af2-45d8-b863-e3dab21e7c1a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

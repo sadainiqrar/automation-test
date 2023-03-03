@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Responses Tab</name>
+   <tag></tag>
+   <elementGuidId>a39320d4-950b-4af4-af61-5eb0c9fe5c8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sharedStyles__NavBarTabListItem-sc-67rum6-4.fooDec</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>57c30eac-6e87-4165-ac90-b50e1d20e0bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sharedStyles__NavBarTabListItem-sc-67rum6-4 fooDec</value>
+      <webElementGuid>c510af1c-d4b5-4439-876d-29b453d08414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Responses</value>
+      <webElementGuid>18778490-f4dd-4736-bb1a-c2c76562bef8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;style__HeaderStyled-sc-1441c0w-0 dBchoU&quot;]/div[@class=&quot;style__UtilsWrapper-sc-1441c0w-2 juMDqP&quot;]/ul[@class=&quot;sharedStyles__NavBarTabStyle-sc-67rum6-3 hQHVrk&quot;]/li[@class=&quot;sharedStyles__NavBarTabListItem-sc-67rum6-4 fooDec&quot;]</value>
+      <webElementGuid>bab1ad02-afeb-4308-9589-78836475f943</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/ul/li[2]</value>
+      <webElementGuid>be9c5157-e7f3-46d8-82a5-889b318b2153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::li[1]</value>
+      <webElementGuid>40b01191-89eb-4c6e-b700-844ee2e423e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cisco'])[1]/following::li[2]</value>
+      <webElementGuid>9f8d61f4-161b-4130-915d-157d084c84fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insights'])[1]/preceding::li[1]</value>
+      <webElementGuid>d54d5305-20b7-4923-8c67-4bae047d683e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants'])[1]/preceding::li[2]</value>
+      <webElementGuid>b24fc38a-4d1b-4697-81de-c9dcd13bc097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Responses']/parent::*</value>
+      <webElementGuid>0ed86c5b-b94c-46e5-98f7-e2bbd54d5142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>a4e411db-e21b-4ca3-80e5-24faa9d06f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Responses' or . = 'Responses')]</value>
+      <webElementGuid>9c93d693-b6dd-49c9-a2e3-4b53766dd6e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

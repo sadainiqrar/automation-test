@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Question 1_fk-content-action fk-content-delete-action</name>
+   <tag></tag>
+   <elementGuidId>3ff7ebd9-7907-4f1f-b7ba-5092549669b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fk-content-action.fk-content-delete-action</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[3]/table/tbody/tr/td[4]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67a1fd08-702d-4618-af22-cad7d6c0c9c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fk-content-action fk-content-delete-action</value>
+      <webElementGuid>2bdde0ea-b44b-4318-a317-c1a9d9258c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[2]/div[@class=&quot;style__CreateCampaignContainer-sc-1mcg5s1-0 jVOYPh&quot;]/div[@class=&quot;style__FormSection-sc-1mcg5s1-1 bUSznY&quot;]/div[@class=&quot;sharedStyle__Container-sc-tx8g94-0 feWuAJ&quot;]/div[@class=&quot;sharedStyle__StepFormWrapper-sc-tx8g94-1 bdQNjP&quot;]/div[@class=&quot;sharedStyle__StepForm-sc-tx8g94-2 lkiweI&quot;]/div[@class=&quot;style__InputContainer-sc-1xjqalx-0 ijMbPJ&quot;]/div[@class=&quot;input-field-div questions-children&quot;]/div[@class=&quot;style__QuestionsContainer-sc-tdev96-0 dKnnqU&quot;]/table[1]/tbody[1]/tr[1]/td[4]/div[@class=&quot;actions-div&quot;]/div[@class=&quot;fk-content-action fk-content-delete-action&quot;]</value>
+      <webElementGuid>ab55d377-7857-471f-9751-c3c63b8ac89e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div[3]/table/tbody/tr/td[4]/div/div[2]</value>
+      <webElementGuid>2fa82b2f-5ac2-4704-a435-3355c334346a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question 1'])[1]/following::div[3]</value>
+      <webElementGuid>0a92ab37-b49b-4172-b455-be8192fa33e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='QUESTION'])[1]/following::div[3]</value>
+      <webElementGuid>8d313b88-479d-44c1-85fe-3d201eeca130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::div[3]</value>
+      <webElementGuid>a68bf872-d68e-4d5d-baa4-a6dd6458d180</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::div[4]</value>
+      <webElementGuid>7eacc66e-4186-412a-af9e-cb37695072ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div[2]</value>
+      <webElementGuid>f60a6b64-ae21-47bf-9e32-6f5bbc4ce019</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

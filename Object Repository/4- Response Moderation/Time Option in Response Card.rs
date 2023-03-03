@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Time Option in Response Card</name>
+   <tag></tag>
+   <elementGuidId>9e120209-5801-4639-9e1a-238b343ee0a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fk-card-media-wrapper']/div/div/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fk-audio-time</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'fk-video-time']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>67282efa-82f8-4eff-a35c-0198fcd67982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fk-video-time</value>
+      <webElementGuid>3207b2c5-ba9d-4c61-a37f-213ac93242b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00:00 / 00:42</value>
+      <webElementGuid>e4097e61-2eaf-4201-99a0-4c601c437786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responseCard0&quot;)/div[@class=&quot;style__MediaSectionStyled-sc-10sxs54-0 jWffer fk-card-media-section&quot;]/div[@id=&quot;fk-card-media-wrapper&quot;]/div[@class=&quot;slick-slider fk-content-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[@class=&quot;style__AudioPlayerStyled-sc-1jpekg-0 gMOeSl fk-audio-player-container&quot;]/div[@class=&quot;fk-audio-overlay&quot;]/div[@class=&quot;fk-audio-time&quot;]</value>
+      <webElementGuid>9d4d063c-e8fd-4bd3-8db5-2908e1023cb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fk-card-media-wrapper']/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>b2bac7a7-24ae-4216-968e-a3446c712e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support HTML Audio.'])[1]/following::div[3]</value>
+      <webElementGuid>76bb3110-aa94-4680-8b87-5e5934ad1b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::div[23]</value>
+      <webElementGuid>b93e3867-76dd-4cc2-b0f7-fc8b70e47d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::div[10]</value>
+      <webElementGuid>2fc22f5e-4c05-4946-b076-de880eee6985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anonymous'])[1]/preceding::div[12]</value>
+      <webElementGuid>d4ee60ef-0119-493a-8884-91d10bdd34b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='00:00']/parent::*</value>
+      <webElementGuid>e4cb9fa3-7d40-4464-b2b2-ab467e6be88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div/div/div[2]/div</value>
+      <webElementGuid>ca223abc-1094-436d-9040-5644bb62b8d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '00:00 / 00:42' or . = '00:00 / 00:42')]</value>
+      <webElementGuid>99a78af5-42ee-4c9f-b5ff-0eb1e4a453cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

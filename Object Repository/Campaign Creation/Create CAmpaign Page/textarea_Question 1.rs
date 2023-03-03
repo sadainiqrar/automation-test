@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Question 1</name>
+   <tag></tag>
+   <elementGuidId>d28b10bd-efba-4949-937e-f15919082202</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name=&quot;question-section&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='question-section']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>2e3e8532-b06a-4701-9107-12bbb8d2ff10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>question-section</value>
+      <webElementGuid>bd4bd2bc-15a0-4d4d-aa47-1f4742cf7bcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Explain you experience with Fanvoice?</value>
+      <webElementGuid>7d026631-c324-47a7-a5c5-7280fbd529e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input style__TextAreaStyled-sc-1f0hnm9-2 jaJkTi add-question-field</value>
+      <webElementGuid>095d54b3-2e02-4c5f-91bd-5aeecd1a1195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Question 1</value>
+      <webElementGuid>87ca5c9f-e643-44ac-9a4b-ce01f752f190</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[2]/div[@class=&quot;style__CreateCampaignContainer-sc-1mcg5s1-0 jVOYPh&quot;]/div[@class=&quot;style__FormSection-sc-1mcg5s1-1 bUSznY&quot;]/div[@class=&quot;sharedStyle__Container-sc-tx8g94-0 feWuAJ&quot;]/div[@class=&quot;sharedStyle__StepFormWrapper-sc-tx8g94-1 bdQNjP&quot;]/div[@class=&quot;sharedStyle__StepForm-sc-tx8g94-2 lkiweI&quot;]/div[@class=&quot;style__InputContainer-sc-1xjqalx-0 ijMbPJ&quot;]/div[@class=&quot;input-field-div questions-children&quot;]/div[@class=&quot;sharedStyle__FieldWrapper-sc-tx8g94-12 iyWuDM&quot;]/div[@class=&quot;question-section&quot;]/textarea[@class=&quot;ant-input style__TextAreaStyled-sc-1f0hnm9-2 jaJkTi add-question-field&quot;]</value>
+      <webElementGuid>64906b11-da9b-40e1-84a4-fb5afa3d88d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//textarea[@name='question-section']</value>
+      <webElementGuid>534f620e-c5c4-43ea-ae42-167c6253e954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/div/textarea</value>
+      <webElementGuid>4043b536-b043-4ea6-9399-cbad0706821d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type Your Question'])[1]/following::textarea[1]</value>
+      <webElementGuid>690b1e1b-6ae1-4d75-bfaa-ccbb49d5f9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions'])[2]/following::textarea[1]</value>
+      <webElementGuid>a4e74a6d-4797-4bb6-ad4d-de9c77f512b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>a5ae5095-471b-4316-8061-6c4eac457a2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[1]/preceding::textarea[1]</value>
+      <webElementGuid>d7820e01-1c5c-4175-9f58-20779f5f1f43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Question 1']/parent::*</value>
+      <webElementGuid>8057bab8-b862-4b52-a3bd-35788145b7ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>d231ddc0-2789-433a-bd74-f25a08d7e9e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@name = 'question-section' and @placeholder = 'Explain you experience with Fanvoice?' and (text() = 'Question 1' or . = 'Question 1')]</value>
+      <webElementGuid>8a85b666-9f3f-49d7-b061-34bc958fbb8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

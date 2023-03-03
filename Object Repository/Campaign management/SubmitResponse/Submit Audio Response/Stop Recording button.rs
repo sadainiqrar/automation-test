@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Stop Recording button</name>
+   <tag></tag>
+   <elementGuidId>ac9e0026-913e-4956-8b6a-3b45ac90c0b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>id(&quot;fk-audio-stop-record-icon&quot;)</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>id(&quot;fk-audio-stop-record-icon&quot;)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>4c392a91-b6cc-47ca-a415-a13cd6f55a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1670313756070</value>
+      <webElementGuid>1735c947-bbfd-4064-81f5-bbc340f49b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-audio-stop-record-icon</value>
+      <webElementGuid>26c93c9a-80b8-4237-a909-8f19527e6a90</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

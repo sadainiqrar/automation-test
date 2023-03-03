@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Your browser does not support HTML vid_7759af</name>
+   <tag></tag>
+   <elementGuidId>292ae1c7-e838-4124-9c49-fb88d27633bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Path_2079</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Path_2079']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>455db57e-a31b-4878-a028-7f28c2739bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#fff</value>
+      <webElementGuid>eb4b4ca0-357d-4c9e-b12a-d53a49d5167a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Path_2079</value>
+      <webElementGuid>9b933996-8278-494e-90eb-c033b3df71e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Path 2079</value>
+      <webElementGuid>56d15d80-e204-43ef-b572-14984705072f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M503.453,132.87,425.948,88.123a9.246,9.246,0,0,0-13.874,8v89.5a9.25,9.25,0,0,0,13.874,8.011l77.505-44.756A9.245,9.245,0,0,0,503.453,132.87Z</value>
+      <webElementGuid>c68c931b-4bab-413f-bc34-0e8b37842725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(-412.074 -86.87)</value>
+      <webElementGuid>b28acca8-2d39-4552-97de-8d22f2dd20bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Path_2079&quot;)</value>
+      <webElementGuid>79b4994e-0268-4f3c-88d1-73d2e09fbd70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Path_2079']</value>
+      <webElementGuid>6e0fd59a-13ab-44d2-9310-a7dbd0ee6ad4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

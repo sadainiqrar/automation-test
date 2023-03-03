@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Insights</name>
+   <tag></tag>
+   <elementGuidId>78afdd57-27f1-4537-a8c0-d5efa064aa3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/ul/li[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c94992c7-2d11-432c-b9f3-9d683804c944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sharedStyles__NavBarTabListItem-sc-67rum6-4 lhjMry</value>
+      <webElementGuid>c7778b0a-d60b-4876-9160-a2607d4a3ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Insights</value>
+      <webElementGuid>e812f2bc-3986-45cb-85eb-48fad359c666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;style__HeaderStyled-sc-1441c0w-0 dBchoU&quot;]/div[@class=&quot;style__UtilsWrapper-sc-1441c0w-2 juMDqP&quot;]/ul[@class=&quot;sharedStyles__NavBarTabStyle-sc-67rum6-3 hQHVrk&quot;]/li[@class=&quot;sharedStyles__NavBarTabListItem-sc-67rum6-4 lhjMry&quot;]</value>
+      <webElementGuid>f1742c46-ffcb-44f6-83fb-2a563e88ce80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/ul/li[3]</value>
+      <webElementGuid>1ce8cf56-52e1-408e-8fd8-c55f45df9317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responses'])[1]/following::li[1]</value>
+      <webElementGuid>1f020db5-cdd3-48ce-871f-9b137e3643f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::li[2]</value>
+      <webElementGuid>fb2df37d-1636-4113-8360-917513ff845e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants'])[1]/preceding::li[1]</value>
+      <webElementGuid>1bea3f80-3edd-4c73-953c-99ad06192106</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/preceding::li[2]</value>
+      <webElementGuid>9f01bdb7-4120-416d-a414-f0d3a0ea8df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Insights']/parent::*</value>
+      <webElementGuid>4e9c8671-0d67-4c91-a1ec-2ebef343c2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>d347708c-7498-47ce-94d9-9b934c738be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Insights' or . = 'Insights')]</value>
+      <webElementGuid>c3bbfe08-eab6-4bec-8be8-7e772f60048a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

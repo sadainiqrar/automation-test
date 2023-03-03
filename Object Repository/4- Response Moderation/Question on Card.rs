@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Question on Card</name>
+   <tag></tag>
+   <elementGuidId>26f01215-f727-4c17-bd6c-b5ff4e5eeaa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fk-card-media-wrapper']/div/div/div/div/div/div/div[2]/div[4]/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.fk-audio-title</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'fk-video-title']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>55c316fd-57cd-4888-94c7-1a56bbfa22e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fk-video-title</value>
+      <webElementGuid>8d0ed67b-adc5-4a11-91f3-513532d4bb00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This is Question 01 for Testing?</value>
+      <webElementGuid>c4656837-c2a6-4ea8-9e99-15998a351fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responseCard0&quot;)/div[@class=&quot;style__MediaSectionStyled-sc-10sxs54-0 jWffer fk-card-media-section&quot;]/div[@id=&quot;fk-card-media-wrapper&quot;]/div[@class=&quot;slick-slider fk-content-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[@class=&quot;style__AudioPlayerStyled-sc-1jpekg-0 gMOeSl fk-audio-player-container&quot;]/div[@class=&quot;fk-audio-overlay&quot;]/div[@class=&quot;fk-audio-control-actions&quot;]/p[@class=&quot;fk-audio-title&quot;]</value>
+      <webElementGuid>f3163395-9e62-4114-81d9-e100470c2ae0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fk-card-media-wrapper']/div/div/div/div/div/div/div[2]/div[4]/p[2]</value>
+      <webElementGuid>890da540-0875-47db-a165-d1a37d594d97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support HTML Audio.'])[1]/following::p[2]</value>
+      <webElementGuid>bae38308-e018-4781-82ac-4add143f909f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::p[3]</value>
+      <webElementGuid>ceb017f7-c3e6-41fd-b30a-227e28c6bd39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::p[1]</value>
+      <webElementGuid>640b1abd-763f-4158-abec-e722884106c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anonymous'])[1]/preceding::p[1]</value>
+      <webElementGuid>9fecaf77-c869-4386-a8ec-a171228e7071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='What challenges have you faced with Regression testing - Updated?']/parent::*</value>
+      <webElementGuid>6fa061a1-ea32-4050-a621-14f589e8c11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>0e2a30ca-befe-4990-a916-41b78ac1911b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'What challenges have you faced with Regression testing - Updated?' or . = 'What challenges have you faced with Regression testing - Updated?')]</value>
+      <webElementGuid>ccee3b47-cea8-48a4-83d7-dbd40a7ac6aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

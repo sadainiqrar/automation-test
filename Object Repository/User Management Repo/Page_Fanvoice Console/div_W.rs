@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_W</name>
+   <tag></tag>
+   <elementGuidId>cc95968c-0951-46bf-928c-f242d0a97850</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.style__AvatarWrapper-sc-kyr0rg-0.hkgesL > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5a8c1070-7ec5-477f-9b70-be7e2ae46be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>W</value>
+      <webElementGuid>30e7cf28-fa1c-43a9-a687-b33d4b2f7f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;style__HeaderStyled-sc-1441c0w-0 dBchoU&quot;]/div[@class=&quot;style__UtilsWrapper-sc-1441c0w-2 juMDqP&quot;]/div[@class=&quot;style__NavBarUtilStyle-sc-1441c0w-3 cHHExS&quot;]/div[@class=&quot;user-logo-wrapper&quot;]/div[@class=&quot;ant-dropdown-trigger fk-admin-avatar&quot;]/div[@class=&quot;style__AvatarWrapper-sc-kyr0rg-0 hkgesL&quot;]/div[1]</value>
+      <webElementGuid>a174289d-c2ff-49de-9763-78b0e04167ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>10a2bff1-cbbf-43d4-9183-56795cf13f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FanKave Internal'])[1]/following::div[6]</value>
+      <webElementGuid>63b36c7e-ba61-4d91-8b7d-ad47f017317e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization'])[1]/following::div[8]</value>
+      <webElementGuid>2f3f1950-e1af-4c4d-bb02-7efc3b003323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Campaigns'])[1]/preceding::div[1]</value>
+      <webElementGuid>50d8823e-47ed-4145-b659-438a1e0a907a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::div[1]</value>
+      <webElementGuid>ea3627ab-e8e6-4f48-a61a-3e2784f91a3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='W']/parent::*</value>
+      <webElementGuid>bf55b07a-fd39-418e-be22-779f56a43c3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div</value>
+      <webElementGuid>bc2d0903-4a2b-4cd7-99eb-c8187b93f665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'W' or . = 'W')]</value>
+      <webElementGuid>e353e155-9187-4c8d-8043-ca05d07af988</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Record Audio</name>
+   <tag></tag>
+   <elementGuidId>f4d53c32-da05-4ab8-ad2e-d3009192a3cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#fk-audioCapture</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fk-audioCapture']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09aedb72-0f8d-46a5-91cc-fa7571b13484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-audioCapture</value>
+      <webElementGuid>74375941-b217-4f09-9c86-4383d5869b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__WidgetTile-sc-4fv1f1-3 bpXZMD</value>
+      <webElementGuid>76414ead-a697-496c-b4da-6cda29a17fea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record Audio</value>
+      <webElementGuid>1010a7cd-da2f-4f11-a687-e4ecc9a3ad43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fk-audioCapture&quot;)</value>
+      <webElementGuid>28270aba-e2af-4133-bdf3-0c42fe48539b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='fk-audioCapture']</value>
+      <webElementGuid>8b666672-d2f8-4aa1-8f7c-047e6bc8470e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fk-dktp-home-screen']/div[2]/div/div[2]</value>
+      <webElementGuid>7e44cd74-c055-43a7-8276-838ffa838636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automated Test Campaign by Waqas'])[1]/following::div[4]</value>
+      <webElementGuid>7a5c1ca1-0054-4c5c-b2e9-2769c66a449f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[5]</value>
+      <webElementGuid>a5e1b773-0b06-440e-8d9c-d72d71f7e564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::div[5]</value>
+      <webElementGuid>419306af-ceab-420f-8f1c-685a37bb8938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>92fcfe0d-25d0-424b-9c78-a65566ff5732</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'fk-audioCapture' and (text() = 'Record Audio' or . = 'Record Audio')]</value>
+      <webElementGuid>01eef007-3618-41be-9dbb-3285c2f336c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

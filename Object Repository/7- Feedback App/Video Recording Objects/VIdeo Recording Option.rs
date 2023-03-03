@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Video Recording Option</name>
+   <tag></tag>
+   <elementGuidId>61045929-21e1-48ed-a3b3-f70f2b279069</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fk-videoCapture']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fk-videoCapture</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>179933a2-6378-4c1f-89d5-bb24bc903a8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-videoCapture</value>
+      <webElementGuid>325d2c11-17f6-480d-811e-74b2f4d86306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__WidgetTile-sc-4fv1f1-3 bpXZMD videoCapture</value>
+      <webElementGuid>5d7aa2fc-12af-42d9-a064-2147b70dd48a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record Video</value>
+      <webElementGuid>936be433-1bd9-4c3e-86e3-f365235d274c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fk-videoCapture&quot;)</value>
+      <webElementGuid>ae0c0257-3428-4c70-b132-37b75d55d214</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='fk-videoCapture']</value>
+      <webElementGuid>9905c9f1-d010-4e97-8ebd-8022363d4d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fk-homescreen-widgets-container']/div</value>
+      <webElementGuid>437d431a-d8f0-4bc7-84f6-f071e54c71b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation testing Experience Side'])[1]/following::div[2]</value>
+      <webElementGuid>7cd7a0de-92a9-4a7e-81e4-9cb65951af3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation Testing'])[1]/following::div[2]</value>
+      <webElementGuid>f96d55f4-7a45-44be-b939-1a1880b84bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[6]</value>
+      <webElementGuid>72b5fa7d-1b07-448c-a098-69523b81eb91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::div[6]</value>
+      <webElementGuid>15eadd0b-7be3-4e81-ba0a-0556802d0fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>7fbfc402-d539-4489-a7e8-6c2bb1140bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'fk-videoCapture' and (text() = 'Record Video' or . = 'Record Video')]</value>
+      <webElementGuid>dc53e64d-4fd6-4e62-96a1-c7b92b399807</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete user button</name>
+   <tag></tag>
+   <elementGuidId>96c1c295-62bd-4e82-a048-23068c91814e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='delete-button-0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#delete-button-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3103c01-8951-4129-b9e0-9d8b5243a886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>delete-button-0</value>
+      <webElementGuid>527ed805-80db-4b8a-81ed-7c64b419747b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fk-content-action fk-content-delete-action ant-tooltip-open</value>
+      <webElementGuid>2261182f-1a08-4f10-bd64-1e2a7f8406ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;delete-button-0&quot;)</value>
+      <webElementGuid>c2529095-53ae-4a84-b3e6-26fdcc478b25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='delete-button-0']</value>
+      <webElementGuid>1d338615-91e6-47be-ae45-52817017f423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/table/tbody/tr/td[4]/div/div[2]</value>
+      <webElementGuid>7d18720f-e501-4a8a-aeab-82644ca91c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thu, 02 Feb 2023 08:42:22 GMT'])[1]/following::div[3]</value>
+      <webElementGuid>3fdb3b18-8b7c-4e2a-b9a9-2081fea1effe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::div[4]</value>
+      <webElementGuid>7dc678df-56a3-4b8d-90e4-114054bcf00e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='waqasahmed2468@gmail.com'])[1]/preceding::div[2]</value>
+      <webElementGuid>b53e7ec3-4908-41c4-b85d-5dd3e48748b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/preceding::div[3]</value>
+      <webElementGuid>a401e350-8c3a-4efb-963f-1e216dbe19f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div[2]</value>
+      <webElementGuid>b741a444-0619-4390-a04e-87ec7b7d0804</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'delete-button-0']</value>
+      <webElementGuid>998e2e2c-07df-4c37-ac08-6d426ee32176</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

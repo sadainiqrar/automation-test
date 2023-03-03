@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Copy Campaign Link</name>
+   <tag></tag>
+   <elementGuidId>727d140b-374d-4927-ac90-135dbfb22350</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#regressiontestingof-campaign-copy-link-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='regressiontestingof-campaign-copy-link-btn']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6331ed6c-b110-49bd-8982-765dc3fdbc6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__SeeMoreOption-sc-4gnvp0-9 ealSUv</value>
+      <webElementGuid>c792e5f0-f208-4742-a100-4c64b7a414f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>regressiontestingof-campaign-copy-link-btn</value>
+      <webElementGuid>663dc4fc-75e7-4c2c-8f8a-3a5a380da40e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy Campaign Link</value>
+      <webElementGuid>c63bbe1f-e442-4a07-87e3-4e5ae4560e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;regressiontestingof-campaign-copy-link-btn&quot;)</value>
+      <webElementGuid>9feecab1-74b8-4540-970a-c1eb0126adff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='regressiontestingof-campaign-copy-link-btn']</value>
+      <webElementGuid>711b08ee-18d6-46f0-849e-c2d3b3386abc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Content Language Test'])[2]/following::div[9]</value>
+      <webElementGuid>e7294d20-2fa1-45aa-9c8d-0e45ce989c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'regressiontestingof-campaign-copy-link-btn', '&quot;', ')')])[1]/following::div[15]</value>
+      <webElementGuid>6c8bcdfb-3191-4ab7-b95d-677b4c512eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Campaign'])[1]/preceding::div[1]</value>
+      <webElementGuid>c29d7886-a5b1-4326-b369-5babfc20dd75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archive Campaign'])[1]/preceding::div[2]</value>
+      <webElementGuid>1ec865c8-b8ce-463e-9159-dac64707f78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copy Campaign Link']/parent::*</value>
+      <webElementGuid>a3b5d1b0-9286-437f-bcfe-7217d7743994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>1bc249c2-9bae-48e4-8cdc-c4f2c6cbb6de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'regressiontestingof-campaign-copy-link-btn' and (text() = 'Copy Campaign Link' or . = 'Copy Campaign Link')]</value>
+      <webElementGuid>fc558b29-c788-48cf-ba5d-4cfebd236e73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

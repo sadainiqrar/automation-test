@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select permission dropdown</name>
+   <tag></tag>
+   <elementGuidId>9c7a6690-b088-42d4-9933-ff7c17b6ef16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div[2]/div[2]/div/div[7]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'select-permissions-dropdown']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-multiple.ant-select-show-arrow.ant-select-show-search > div.ant-select-selector</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0ab116a-21b1-4b35-bd12-0be1e6b86ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector</value>
+      <webElementGuid>435eb6d7-27dc-49ed-b2c3-88640cb9a255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Select Permissions</value>
+      <webElementGuid>75ab87cb-82ff-475d-9a3a-e1c9d50a3978</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 exXABA&quot;]/div[@class=&quot;dashboard-inner&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-7 hszqxc&quot;]/div[@class=&quot;sharedStyles__CampaignCreationContainerStyled-sc-67rum6-6 ckKeNA&quot;]/div[@class=&quot;style__CreateCampaignContainer-sc-1mcg5s1-0 jVOYPh&quot;]/div[@class=&quot;style__FormSection-sc-1mcg5s1-1 dCcomV&quot;]/div[@class=&quot;sharedStyle__Container-sc-tx8g94-0 feWuAJ text-and-permissions&quot;]/div[@class=&quot;sharedStyle__StepFormWrapper-sc-tx8g94-1 bdQNjP&quot;]/div[@class=&quot;sharedStyle__StepForm-sc-tx8g94-2 eLqBbj&quot;]/div[@class=&quot;sharedStyle__FieldWrapper-sc-tx8g94-12 iyWuDM&quot;]/div[@class=&quot;style__InputContainer-sc-1xjqalx-0 bYhRYd&quot;]/div[@class=&quot;input-field-div undefined&quot;]/div[@class=&quot;ant-select ant-select-multiple ant-select-show-arrow ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]</value>
+      <webElementGuid>1083a165-9205-4601-b0a5-72ea5d0074e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select-permissions-dropdown</value>
+      <webElementGuid>51b688d5-e335-45a9-8edd-2db2cef955a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/div/div[2]/div[2]/div/div[7]/div/div[2]/div/div</value>
+      <webElementGuid>bc056ce6-b70f-4d66-bed4-8f5b5b7b55a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[1]/following::div[3]</value>
+      <webElementGuid>13572132-a123-481c-a8a7-6a3c2f024350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::div[5]</value>
+      <webElementGuid>94a126c2-e649-4aa3-b9c4-0c8c80621e51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Logo'])[1]/preceding::div[4]</value>
+      <webElementGuid>ad774fdd-d920-4b76-bec8-3f32164563ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div</value>
+      <webElementGuid>b4603773-c3f8-4d07-941d-3d1f79a38aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Select Permissions' or . = ' Select Permissions')]</value>
+      <webElementGuid>83e48cdd-daf2-425c-8c2b-7aacaa49c3a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

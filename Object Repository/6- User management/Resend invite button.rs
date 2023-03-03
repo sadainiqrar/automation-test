@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Resend invite button</name>
+   <tag></tag>
+   <elementGuidId>6f8f8a27-9b4c-4628-ab88-c0e5bb5e4710</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resend-invite-button-0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#resend-invite-button-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>52a26ccf-5962-4856-9eb0-e1cc039577e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resend-invite-button-0</value>
+      <webElementGuid>a724f46f-81b6-4b4d-b627-9774cca52222</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fk-content-action fk-content-delete-action ant-tooltip-open</value>
+      <webElementGuid>3eb3b5ab-f13f-4756-952c-6644b06060e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resend-invite-button-0&quot;)</value>
+      <webElementGuid>3a43f672-7a15-4b8f-8823-c731df57bdbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='resend-invite-button-0']</value>
+      <webElementGuid>f4ca61bc-3f94-4ef6-8059-e7191b883bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div[2]/div/table/tbody/tr/td[4]/div/div[3]</value>
+      <webElementGuid>8c791cad-cbfa-4971-8529-83d6694e0c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thu, 02 Feb 2023 08:42:22 GMT'])[1]/following::div[4]</value>
+      <webElementGuid>72dd3720-d3d9-4ace-aced-05dc03cd1283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin'])[1]/following::div[5]</value>
+      <webElementGuid>135303fe-2a79-40fb-8a04-9510985ef406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='waqasahmed2468@gmail.com'])[1]/preceding::div[1]</value>
+      <webElementGuid>248cd27b-87e7-40a9-ba69-2076fb46eeb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manager'])[1]/preceding::div[2]</value>
+      <webElementGuid>1955ccf8-2d3c-471d-b029-255a706119dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/div[3]</value>
+      <webElementGuid>cef2b0a7-6645-43b1-94ef-6473bbfa16da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'resend-invite-button-0']</value>
+      <webElementGuid>91a12bea-ed9d-4de4-afec-65f01bb87db4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

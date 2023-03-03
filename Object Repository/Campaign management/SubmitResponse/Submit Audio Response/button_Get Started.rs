@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get Started</name>
+   <tag></tag>
+   <elementGuidId>8dc3972f-e835-4f08-b470-bc784717b76a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='fk-get-started-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fk-get-started-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3b493eb7-149f-465c-a6fd-8363d5aa7dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-get-started-button</value>
+      <webElementGuid>29ecf212-b458-4d6d-be6f-d6c9158ccc2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>common__PrimaryButton-sc-khnafi-0 gEoqgS</value>
+      <webElementGuid>419b3e48-be6a-4da3-a6f0-fcfbb271e807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Started</value>
+      <webElementGuid>c53dadc8-3950-455f-8abb-2cb44cd659cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fk-get-started-button&quot;)</value>
+      <webElementGuid>e8093e88-a1ab-4feb-abcf-e99ad96a7748</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='fk-get-started-button']</value>
+      <webElementGuid>dc1db22a-2054-4a25-adc9-176823153dcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fk-dktp-question-screen']/div[2]/button</value>
+      <webElementGuid>0c71470e-8593-4a6b-844c-b2322ce78289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upcoming Question'])[1]/following::button[1]</value>
+      <webElementGuid>0d7f9867-3d05-426e-bcd6-afeb9283d988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automated Test Campaign by Waqas'])[1]/following::button[1]</value>
+      <webElementGuid>3dff788c-6472-483e-aca7-9b180e3001a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Before approving your feedback, you can review what you recorded and rerecord, if needed.'])[1]/preceding::button[1]</value>
+      <webElementGuid>54393604-1371-49e5-8df6-3d603c482231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'fk-get-started-button', '&quot;', ')')])[1]/preceding::button[1]</value>
+      <webElementGuid>e6ec37c7-89e4-43a8-b8b4-33bd707b598e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Started']/parent::*</value>
+      <webElementGuid>efee12cb-46ab-45fb-b7e2-ca909cdd7f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>427456c7-e5c8-41f2-83ce-441b5a990bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'fk-get-started-button' and (text() = 'Get Started' or . = 'Get Started')]</value>
+      <webElementGuid>9c0dab3c-581b-46e9-a10b-5bed5fb99762</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

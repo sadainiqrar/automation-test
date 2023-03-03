@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Approve Button</name>
+   <tag></tag>
+   <elementGuidId>c9e9ff5f-75d2-4e58-b8ab-b6c964389219</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#fk-approve-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='fk-approve-button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c3da2c81-4028-420d-adcb-b690ab93190b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>common__SecondaryButton-sc-khnafi-1 fSfAnN fk-secondary-button fk-approve-button</value>
+      <webElementGuid>5721c5ab-ec51-4a6d-8dd1-cf36626d0358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-approve-button</value>
+      <webElementGuid>16f662ae-c874-4c88-9031-d52a768fef98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve</value>
+      <webElementGuid>f5c1d6f3-74e1-4378-aae1-aa2912aaec82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fk-approve-button&quot;)</value>
+      <webElementGuid>d0540ab3-5c1d-476c-93de-aca6c5dea8b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='fk-approve-button']</value>
+      <webElementGuid>c1a5b13f-0da7-4e60-b91e-bfd922b00cb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='fk-automationtestingbywaqas009 fk-experience-mobile']/div/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>7102b90a-d144-46e4-93f4-f69699204ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What would You Like Us to Improve in 2023?'])[1]/following::button[1]</value>
+      <webElementGuid>8df757d5-9f65-440b-9976-375546002097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question 1 / 2'])[1]/following::button[1]</value>
+      <webElementGuid>f16b4b2f-6faf-429e-87de-85b16bcd07ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rerecord'])[1]/preceding::button[1]</value>
+      <webElementGuid>eea53e80-963d-4cbb-8e9d-4389f688d327</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>89e0c6d9-dcdc-4daa-bb92-4e9895255c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'fk-approve-button' and (text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>5265b1ab-86f0-4b12-a787-7df274c2bb26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Automated Test Campaign 01</name>
+   <tag></tag>
+   <elementGuidId>f097a910-1040-4ce1-808a-dd6183b827a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-tooltip-open</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a9c095cd-5c48-4336-bc06-95980ac0737d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tooltip-open</value>
+      <webElementGuid>089dffad-a0ba-40c1-b223-01f7b8ec3e5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Automated Test Campaign 01</value>
+      <webElementGuid>203a9dc7-56f6-4879-8156-1403ba376620</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[@class=&quot;style__ContainerStyled-sc-12mhbmd-0 eZyCwG&quot;]/div[@class=&quot;style__CardContainer-sc-4gnvp0-0 dGEpfR&quot;]/div[@class=&quot;style__CardStyled-sc-4gnvp0-1 eyoOQt&quot;]/div[@class=&quot;style__CardHeader-sc-4gnvp0-2 cafOEi&quot;]/span[@class=&quot;style__MainTitle-sc-4gnvp0-6 hHKrcq&quot;]/span[@class=&quot;ant-tooltip-open&quot;]</value>
+      <webElementGuid>5159be60-491d-4191-806b-f5deb090fdc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div/span/span</value>
+      <webElementGuid>a88a7164-bad0-4768-a4ae-4d4fc19ba8d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+  Add Campaign'])[1]/following::span[2]</value>
+      <webElementGuid>3eb3b88f-3349-4b4a-a8cc-c50a2da62351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Campaigns'])[1]/following::span[3]</value>
+      <webElementGuid>513ffef2-5aa3-48b0-b942-28c5f87a31e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions'])[1]/preceding::span[3]</value>
+      <webElementGuid>260a312d-b668-4bde-ae80-7d89a0b8185a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responses'])[1]/preceding::span[5]</value>
+      <webElementGuid>b4d58c48-cc23-4335-b55e-38f5dc458824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Automated Test Campaign 01']/parent::*</value>
+      <webElementGuid>41006ec5-2298-4649-8541-0cf0ecac6c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>215f261c-f96c-4e96-8ad5-b3ef5743ba84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Automated Test Campaign 01' or . = 'Automated Test Campaign 01')]</value>
+      <webElementGuid>7947e05f-79fb-46c9-a397-b157b370dc5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

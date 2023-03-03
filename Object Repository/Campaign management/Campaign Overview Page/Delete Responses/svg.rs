@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>0852b45b-4e6d-45c3-9738-ccb4d59b3b45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[2]/following::*[name()='svg'][3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.fk-content-action.fk-content-delete-action > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>97ed5ca0-bf1c-4a1c-b5bf-12a71984a6db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>a731964c-9615-49da-9f9a-3e456fbcb5a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>18.723</value>
+      <webElementGuid>1d7e1e66-baf4-441b-9342-cfc888e8b18d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>18.912</value>
+      <webElementGuid>0b5c3eeb-b1b4-466c-a021-33243a9887f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 18.723 18.912</value>
+      <webElementGuid>d59f3f8f-d455-4095-9441-83d2caf8270f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responseCard0&quot;)/div[@class=&quot;style__Footer-sc-1eu4ljs-16 bifRtN&quot;]/div[@class=&quot;style__ContentActions-sc-1eu4ljs-17 dLDKsq fk-card-content-actions fk-content-actions&quot;]/div[@class=&quot;fk-content-action fk-content-delete-action&quot;]/svg[1]</value>
+      <webElementGuid>2a621530-a6c6-49f4-b26b-0489b16107ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[2]/following::*[name()='svg'][3]</value>
+      <webElementGuid>93bb7793-1af4-47c8-bd8b-0ff845084d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trackers'])[2]/following::*[name()='svg'][3]</value>
+      <webElementGuid>467c4440-98f0-4d6e-87e1-1b7129e7bcfb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Permission value</name>
+   <tag></tag>
+   <elementGuidId>d038943c-b6c8-4d9a-a0c9-c31d4bf1cc32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@id='fk-content-permission'])[6]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'fk-content-permission']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#responseCard5 > div.style__DetailSectionStyled-sc-3196xp-0.jvbqdr.fk-card-content.fk-card-detail-section > div.style__IntroWrapper-sc-hvy2cc-3.kFzxMa.fk-user-wrapper > div.style__TextContainer-sc-hvy2cc-0.bDpFCE.fk-user-meta > div.fk-meta-info > #fk-content-permission</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b2283d86-23f3-4510-b08e-5c23eb4e07cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-content-permission</value>
+      <webElementGuid>6cf7f01c-ea35-4a16-992f-cf28db4ff201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Share Publicly</value>
+      <webElementGuid>959f2080-a327-4245-ae54-63cae46ad1bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responseCard5&quot;)/div[@class=&quot;style__DetailSectionStyled-sc-3196xp-0 jvbqdr fk-card-content fk-card-detail-section&quot;]/div[@class=&quot;style__IntroWrapper-sc-hvy2cc-3 kFzxMa fk-user-wrapper&quot;]/div[@class=&quot;style__TextContainer-sc-hvy2cc-0 bDpFCE fk-user-meta&quot;]/div[@class=&quot;fk-meta-info&quot;]/span[@id=&quot;fk-content-permission&quot;]</value>
+      <webElementGuid>02d1a2d0-4232-4d3a-aca3-fc7b7748c83e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//span[@id='fk-content-permission'])[6]</value>
+      <webElementGuid>b6442f01-93cd-4c07-8e06-d78aa06b5fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='responseCard5']/div[2]/div/div[2]/div[2]/span[3]</value>
+      <webElementGuid>15142f66-f4ca-41d0-85a8-3d54c2a1b5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[6]/following::span[1]</value>
+      <webElementGuid>7fc93217-70d5-482f-b5fd-539bd13e2adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='i'])[6]/following::span[3]</value>
+      <webElementGuid>41ddc0eb-e9bf-4f59-98c7-cea07b1972c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[11]/preceding::span[1]</value>
+      <webElementGuid>968909c9-d32c-49e0-8124-515909dd63ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keywords'])[11]/preceding::span[2]</value>
+      <webElementGuid>8574239a-1324-4675-90f7-cdf78135baca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/div[2]/div[2]/span[3]</value>
+      <webElementGuid>6f4de283-f3cb-4689-b9f9-ea51efa4bbd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'fk-content-permission' and (text() = 'Share Publicly' or . = 'Share Publicly')]</value>
+      <webElementGuid>755951a2-1cfe-4756-bcd6-e5ae42aa280e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

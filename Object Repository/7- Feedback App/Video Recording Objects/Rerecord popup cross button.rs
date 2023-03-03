@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Rerecord popup cross button</name>
+   <tag></tag>
+   <elementGuidId>312745f0-aac2-495c-bed6-01f482f19971</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='fk-confirmation-overlay-cross-icon']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fk-confirmation-overlay-cross-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dd14e1ab-116a-42af-9aa7-988c7a45150a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-confirmation-overlay-cross-icon</value>
+      <webElementGuid>c1f140e0-fe93-4d16-9cdb-42c04f706595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>common__CrossButton-sc-khnafi-3 kmUpQJ</value>
+      <webElementGuid>2163a397-b4fc-4ded-80c6-76c5ab79c3c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fk-confirmation-overlay-cross-icon&quot;)</value>
+      <webElementGuid>1e2a4af6-f333-4765-910a-961a02f46033</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='fk-confirmation-overlay-cross-icon']</value>
+      <webElementGuid>da383b88-517f-4afd-961b-a648d6faf7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='fk-automationtestingbywaqas009 fk-experience-mobile']/div/div/span</value>
+      <webElementGuid>488a291b-5caa-42e8-89e5-f40e8b6c400d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rerecord'])[1]/preceding::span[1]</value>
+      <webElementGuid>6c8a2b16-7983-4440-85f5-fed85865f681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to discard this response?'])[1]/preceding::span[2]</value>
+      <webElementGuid>b8ca360b-1710-49c8-b39c-cd50fe36bb95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>2affe372-540e-4091-abb9-d08bbf827da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'fk-confirmation-overlay-cross-icon']</value>
+      <webElementGuid>a4c3e6d3-ada0-4d86-879b-1d9c78ee50c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

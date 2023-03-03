@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_This is Question 02 for Test Campaign_Union_3</name>
+   <tag></tag>
+   <elementGuidId>a0f1712f-3034-46ae-8e53-80ad08b9378d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Union_3']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>e7e9b556-72dd-4ad8-98d4-5f7de0ac9fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Union_3</value>
+      <webElementGuid>b5a1264b-6763-4415-8fa9-479cc6ec1f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Union 3</value>
+      <webElementGuid>2bcd9e40-f790-41a0-a65b-422c76c3e6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M18191.609,5766.022l-4.246-4.243-4.242,4.243a1,1,0,0,1-1.416-1.416l4.244-4.242-4.244-4.242a1,1,0,0,1,1.416-1.416l4.242,4.243,4.246-4.243a1,1,0,1,1,1.41,1.416l-4.242,4.242,4.242,4.242a1,1,0,0,1-1.41,1.416Z</value>
+      <webElementGuid>67291875-bfec-417c-af09-03b7971e01e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(-18181.414 -5754.414)</value>
+      <webElementGuid>463ff879-049e-48a1-841a-a183159c7dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>red</value>
+      <webElementGuid>b7c5b7f8-7f22-4134-81f7-c61adde428bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[2]/div[@class=&quot;style__CreateCampaignContainer-sc-1mcg5s1-0 jVOYPh&quot;]/div[@class=&quot;style__FormSection-sc-1mcg5s1-1 bUSznY&quot;]/div[@class=&quot;sharedStyle__Container-sc-tx8g94-0 feWuAJ&quot;]/div[@class=&quot;sharedStyle__StepFormWrapper-sc-tx8g94-1 bdQNjP&quot;]/div[@class=&quot;sharedStyle__StepForm-sc-tx8g94-2 lkiweI&quot;]/div[@class=&quot;style__InputContainer-sc-1xjqalx-0 ijMbPJ&quot;]/div[@class=&quot;input-field-div questions-children&quot;]/div[@class=&quot;style__QuestionsContainer-sc-tdev96-0 dKnnqU&quot;]/table[1]/tbody[1]/tr[2]/td[4]/div[@class=&quot;actions-div&quot;]/div[@class=&quot;fk-content-action fk-content-delete-action&quot;]/svg[1]/path[@id=&quot;Union_3&quot;]</value>
+      <webElementGuid>2028c834-e142-485c-b95e-069c01ea6022</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Union_3']</value>
+      <webElementGuid>563380c5-d9f9-43c4-b6b8-e68760a2dc7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

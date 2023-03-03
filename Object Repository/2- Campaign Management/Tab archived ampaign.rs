@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab archived ampaign</name>
+   <tag></tag>
+   <elementGuidId>e3cd7fc9-59c7-4872-9f68-6edbad70dfe8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div[2]/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7564b077-3234-44ec-a849-f69befbfd65e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Archived</value>
+      <webElementGuid>23fa5fb6-2d17-43f4-b6ef-71f1b7b4f9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 exXABA&quot;]/div[@class=&quot;dashboard-inner&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-7 hszqxc&quot;]/div[@class=&quot;style__SubHeaderStyled-sc-18x0jlo-0 ldZwRo&quot;]/div[@class=&quot;sharedStyles__UtilitiesDiv-sc-67rum6-1 iWidAI&quot;]/ul[@class=&quot;grouping&quot;]/li[2]</value>
+      <webElementGuid>57373f47-b475-4f7d-977a-5cdc8d69f15e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div[2]/ul/li[2]</value>
+      <webElementGuid>3268159b-343b-4738-a296-6fa12f0a8482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/following::li[1]</value>
+      <webElementGuid>1d81e48f-bdee-4ab2-a5c7-4cabc4551992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- (19)'])[1]/following::li[2]</value>
+      <webElementGuid>feace898-6070-4613-9309-d54bb59c2b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drafts'])[1]/preceding::li[1]</value>
+      <webElementGuid>bf9b7b56-8234-44c4-8f92-985eb3f36484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+  Add Campaign'])[1]/preceding::li[2]</value>
+      <webElementGuid>e7012437-ed11-4268-95f8-8bfe0de92fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Archived']/parent::*</value>
+      <webElementGuid>4ef8e606-7e0e-4f56-91ae-00459ebf09a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>a6821f3f-1d45-49ec-9534-97ea61ea42ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Archived' or . = 'Archived')]</value>
+      <webElementGuid>e3d3c8b0-083d-4776-826c-77f3e7bd76ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

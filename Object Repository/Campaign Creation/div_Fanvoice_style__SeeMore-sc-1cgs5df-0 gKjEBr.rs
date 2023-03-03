@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Fanvoice_style__SeeMore-sc-1cgs5df-0 gKjEBr</name>
+   <tag></tag>
+   <elementGuidId>8cb0fe6d-6b0a-481d-a55c-40fc0bbf8fd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.style__SeeMore-sc-1cgs5df-0.gKjEBr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8f0b535c-a268-40ac-b733-931287f0f84a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__SeeMore-sc-1cgs5df-0 gKjEBr</value>
+      <webElementGuid>fcc5e804-3f68-4959-ba6c-087cce97aa79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[@class=&quot;style__ContainerStyled-sc-12mhbmd-0 iIsiFY&quot;]/div[@class=&quot;style__CardContainer-sc-4gnvp0-0 ixByUz&quot;]/div[@class=&quot;style__CardStyled-sc-4gnvp0-1 eyoOQt&quot;]/div[@class=&quot;style__CardFooter-sc-4gnvp0-4 clbiRN&quot;]/div[@class=&quot;ant-popover-open&quot;]/div[@class=&quot;style__SeeMore-sc-1cgs5df-0 gKjEBr&quot;]</value>
+      <webElementGuid>09813bf7-637e-432f-b524-b596be5c7a39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>5a07d627-7e91-42bf-b0a9-a2151dff4753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fanvoice'])[1]/following::div[2]</value>
+      <webElementGuid>cc7e4c9b-8b0d-48a5-9b93-f741079d16b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Responses'])[1]/following::div[3]</value>
+      <webElementGuid>21316bac-7738-46a5-a9c0-a2530baf4fb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='camp0078'])[1]/preceding::div[4]</value>
+      <webElementGuid>b2e5258e-efc9-479e-abe7-d2c56ebb71a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Questions'])[2]/preceding::div[5]</value>
+      <webElementGuid>a30c40b8-91d4-4ebd-baf1-c157825dcc65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div/div</value>
+      <webElementGuid>b15010d6-9784-4088-b890-7aff9fe23d03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

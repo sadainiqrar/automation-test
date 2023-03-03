@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Option Mirror</name>
+   <tag></tag>
+   <elementGuidId>90551b55-d5a3-4894-9f8f-86f89d55906a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='fk-video-transform-flip'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a163a9ca-0f8a-46cc-9de8-260f8614375b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-video-transform-flip</value>
+      <webElementGuid>690b8eb5-5930-45f4-a638-555d0a992141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__TransformActionButtonWrapper-sc-1ydv7l1-1 eRXsWi fk-video-transform-flip</value>
+      <webElementGuid>2d76ca61-2616-4d75-9cea-ced0c3609add</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mirror</value>
+      <webElementGuid>d5b94809-7933-4a70-92f0-e8629e6d4d9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fk-video-capture-overlay&quot;)/div[@class=&quot;style__UtilBarStyled-sc-1uuyqbi-0 dSViXU fk-video-transform-actions&quot;]/div[@class=&quot;fk-transform-actions-wrapper&quot;]/div[@id=&quot;fk-video-transform-flip&quot;]</value>
+      <webElementGuid>a95cf95b-7371-47a3-8050-0893404ddb81</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='fk-video-transform-flip'])[2]</value>
+      <webElementGuid>953f21ed-c70e-4e78-be62-3119262b9be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fk-video-capture-overlay']/div[3]/div/div[2]</value>
+      <webElementGuid>991c5e3b-a0fb-4d7e-a356-24116e3149a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt; Prev'])[1]/preceding::div[3]</value>
+      <webElementGuid>4eb958c0-e719-4afc-8f80-e1893aeb1471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question 1 / 4'])[1]/preceding::div[3]</value>
+      <webElementGuid>477f9425-d8d7-47b9-a93f-37632f1d30b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]</value>
+      <webElementGuid>fcbe1609-f9f3-4a6c-a64a-41e2a709a867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'fk-video-transform-flip' and (text() = 'Mirror' or . = 'Mirror')]</value>
+      <webElementGuid>192b22f0-f77d-4d6b-b1bf-d32a5c7ab34b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

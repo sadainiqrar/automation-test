@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Record Video</name>
+   <tag></tag>
+   <elementGuidId>c80ecd25-16ff-4c80-9466-046b21d08092</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#fk-videoCapture</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fk-videoCapture']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f45d3b7-ba0d-4b1c-8b08-d98f6233a623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>fk-videoCapture</value>
+      <webElementGuid>f7a3a952-3a45-47e9-8db3-f0258e0d483c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__WidgetTile-sc-4fv1f1-3 bpXZMD</value>
+      <webElementGuid>b7b902e5-602c-48ca-be79-8a8bd5de39e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record Video</value>
+      <webElementGuid>855d08bc-4661-42be-a59d-d2c924058117</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fk-videoCapture&quot;)</value>
+      <webElementGuid>87daa302-b2f2-41cf-81bc-1bb3a1b9b5e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='fk-videoCapture']</value>
+      <webElementGuid>c021fa0d-67b9-4064-90be-5bdea6402f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fk-dktp-home-screen']/div[2]/div/div</value>
+      <webElementGuid>f9ffcb65-b55c-48e4-9b52-0fcf20091acd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T20 World Cup 2022'])[1]/following::div[3]</value>
+      <webElementGuid>beaf9129-0ffa-4eb7-b5ec-53258299bfaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'fk-videoCapture', '&quot;', ')')])[1]/preceding::div[6]</value>
+      <webElementGuid>74f998b3-c28a-4056-b8f7-05aa10503a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>c2565efb-35ac-4b2c-95e5-52dc09c4a94a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'fk-videoCapture' and (text() = 'Record Video' or . = 'Record Video')]</value>
+      <webElementGuid>1e3be820-06c3-40ef-9609-586054051221</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

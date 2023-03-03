@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Go to Campaigns Page</name>
+   <tag></tag>
+   <elementGuidId>4bafd97f-9498-40f2-95ce-89dc1254cc8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.style__FilledButton-sc-1hf2caz-1.examQV</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7e7dac9e-083f-4b1c-a077-69bddd104784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__FilledButton-sc-1hf2caz-1 examQV</value>
+      <webElementGuid>77faac0d-71df-4141-bf49-28ad6fd26fdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go to Campaign's Page</value>
+      <webElementGuid>8ddc5315-e394-4e3c-8d03-126c5954ed8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;style__DashboardStyle-sc-1265zxf-0 hpOElW&quot;]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[2]/div[@class=&quot;sharedStyles__DashboardMainContainerStyle-sc-67rum6-6 fQHQWc&quot;]/div[@class=&quot;sharedStyle__ThankyouContainer-sc-tx8g94-10 dOBnAS&quot;]/div[@class=&quot;thankyou-screen&quot;]/div[@class=&quot;sharedStyle__ButtonDiv-sc-tx8g94-13 hRWfFd&quot;]/button[@class=&quot;style__FilledButton-sc-1hf2caz-1 examQV&quot;]</value>
+      <webElementGuid>e0d18630-7ee8-49e9-a5cc-d9dc1f796c5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>01b22848-309a-4c3e-b80c-11e220c6eec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/following::button[1]</value>
+      <webElementGuid>e030397b-1a5c-463b-87e9-0337893e299c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audio'])[1]/following::button[1]</value>
+      <webElementGuid>d0605b44-ae29-4ed5-949d-631c19401ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview Campaign'])[1]/preceding::button[1]</value>
+      <webElementGuid>0338f57d-98fd-4adb-ad57-41c16fae28d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>1cefb313-17ac-47ad-bf7b-54e3443b015f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = concat(&quot;Go to Campaign&quot; , &quot;'&quot; , &quot;s Page&quot;) or . = concat(&quot;Go to Campaign&quot; , &quot;'&quot; , &quot;s Page&quot;))]</value>
+      <webElementGuid>854d5477-129d-4065-a1a7-447b0c7ae75b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

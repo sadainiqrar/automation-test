@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Unarchive Campaign</name>
+   <tag></tag>
+   <elementGuidId>090e948f-426f-4fff-95be-c2cd0367c976</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#regressiontestingfanvoice-campaign-archive-switch</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='regressiontestingfanvoice-campaign-archive-switch']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>62c62574-7fa8-43dd-9587-de2a078cbed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>regressiontestingfanvoice-campaign-archive-switch</value>
+      <webElementGuid>81c5184f-9a43-46db-9a3d-dc04aa7133d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__SeeMoreOption-sc-4gnvp0-9 ealSUv</value>
+      <webElementGuid>5df57637-143d-4eb6-9eff-33d798c6a4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unarchive Campaign</value>
+      <webElementGuid>ad528eb5-b46e-45af-bc24-e76a71cdbbf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;regressiontestingfanvoice-campaign-archive-switch&quot;)</value>
+      <webElementGuid>78e7b30a-d869-4e0a-8b1f-f1ea09a4328a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='regressiontestingfanvoice-campaign-archive-switch']</value>
+      <webElementGuid>2bfd5c1c-fb79-4e2e-ac01-7fca6221a22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Campaign'])[1]/following::div[1]</value>
+      <webElementGuid>62e88507-6587-4b1c-9acb-61b64e1c515a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy Campaign Link'])[1]/following::div[2]</value>
+      <webElementGuid>43c21bc3-9db5-49a6-8da3-8ffef83e3741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete Campaign'])[1]/preceding::div[1]</value>
+      <webElementGuid>0eae7eb5-a37d-4e29-830c-9a65ed131a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Unarchive Campaign']/parent::*</value>
+      <webElementGuid>cc2b1a17-b2c4-496d-a8f5-900ecc492a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div/div/div[3]</value>
+      <webElementGuid>744abe03-b972-4a9d-a708-f661ab082217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'regressiontestingfanvoice-campaign-archive-switch' and (text() = 'Unarchive Campaign' or . = 'Unarchive Campaign')]</value>
+      <webElementGuid>f357356e-2591-4ef4-97f8-7261c18c2e8e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

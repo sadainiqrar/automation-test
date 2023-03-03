@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Audio play icon on card</name>
+   <tag></tag>
+   <elementGuidId>1c2932c1-475d-47cd-8e8a-03ba336a795c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support HTML Audio.'])[1]/following::*[name()='svg'][2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.fk-play-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>a0107bbe-53ba-4f9c-8dca-c334e1405397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>d130636c-f9c3-4997-9d97-bcc2e8a9ccc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>96</value>
+      <webElementGuid>55396306-3444-474c-931c-5c7f5184a3a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>108.019</value>
+      <webElementGuid>4421fec8-16fc-4876-93e2-dee118539bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 96 108.019</value>
+      <webElementGuid>c9de09e4-43b9-40ed-a9aa-01aa545579aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fk-play-icon</value>
+      <webElementGuid>5caeffa8-ea8e-43c3-b60f-2649321b1b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;responseCard0&quot;)/div[@class=&quot;style__MediaSectionStyled-sc-10sxs54-0 jWffer fk-card-media-section&quot;]/div[@id=&quot;fk-card-media-wrapper&quot;]/div[@class=&quot;slick-slider fk-content-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[@class=&quot;style__AudioPlayerStyled-sc-1jpekg-0 gMOeSl fk-audio-player-container&quot;]/div[@class=&quot;fk-audio-overlay&quot;]/div[@class=&quot;fk-audio-play-pause-action&quot;]/svg[@class=&quot;fk-play-icon&quot;]</value>
+      <webElementGuid>7fb8c51e-53df-4d78-b07a-a9d95e4b5dce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your browser does not support HTML Audio.'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>e4dcb751-efc8-48df-8566-40b5ce5798b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W'])[1]/following::*[name()='svg'][3]</value>
+      <webElementGuid>5ab4238a-97ae-4b62-964e-dea34947a2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>6debe767-c0d4-4ab0-bd52-b3209fb02678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anonymous'])[1]/preceding::*[name()='svg'][3]</value>
+      <webElementGuid>a5f0d56b-785b-4698-92df-884c9fe1ce0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
