@@ -49,7 +49,7 @@ jobs:
     - name: check files
       run: |
         ls D:\a\automation-test\automation-test
-        ls D:\a\automation-test\automation-test\Test Suites
+        ls "D:\a\automation-test\automation-test\Test Suites"
     - name: Katalon Studio Github Action
       uses: katalon-studio/katalon-studio-github-action@v2
       with:
