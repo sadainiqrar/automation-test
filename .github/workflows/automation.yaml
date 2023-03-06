@@ -71,6 +71,13 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
+      - name: Check Variables
+        env:
+          KATALON_USERNAME: ${{ secrets.KATALON_USERNAME }}
+          KATALON_PASSWORD: ${{ secrets.KATALON_PASSWORD }}
+        run: |
+          echo $KATALON_USERNAME
+          echo $KATALON_PASSWORD
       - name: Checkout code
         uses: actions/checkout@v2
 
@@ -79,9 +86,6 @@ jobs:
         env:
           KATALON_USERNAME: ${{ secrets.KATALON_USERNAME }}
           KATALON_PASSWORD: ${{ secrets.KATALON_PASSWORD }}
-        run: |
-          echo $KATALON_USERNAME
-          echo $KATALON_PASSWORD
 
       - name: Run Katalon tests
         uses: docker://katalonstudio/katalon:latest
