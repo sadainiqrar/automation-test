@@ -1,61 +1,96 @@
-      # ./katalonc -noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true"
-      # - name: Katalon Studio Github Action
-      #   uses: katalon-studio/katalon-studio-github-action@v2
-      #   with:
-      #     version: "7.5.5"
-      #     projectPath: "${{ github.workspace }}"
-      #     args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
+#       # ./katalonc -noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true"
+#       # - name: Katalon Studio Github Action
+#       #   uses: katalon-studio/katalon-studio-github-action@v2
+#       #   with:
+#       #     version: "7.5.5"
+#       #     projectPath: "${{ github.workspace }}"
+#       #     args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
 
-name: Automation CI
+# name: Automation CI
 
+# # on:
+# #   workflow_dispatch:
 # on:
-#   workflow_dispatch:
+#   push:
+#     branches:
+#       - main
+# jobs:
+#   katalon:
+#     runs-on: windows-latest
+
+#     steps:
+#     - name: Checkout code
+#       uses: actions/checkout@v2
+
+#     - name: Set up Java SDK
+#       uses: actions/setup-java@v2
+#       with:
+#         java-version: '11'
+#         distribution: 'adopt'
+
+#     # - name: Install Katalon Studio
+#     #   run: |
+#     #     wget -O katalon.zip "https://github.com/katalon-studio/katalon-studio/releases/download/v8.3.5/Katalon_Studio_Engine_Linux_64-8.3.5.tar.gz"
+#     #     tar -xzf katalon.zip -C $HOME
+#     #     rm katalon.zip
+#     #     ls $HOME
+
+#     # - name: Run Katalon Studio tests
+#     #   run: |
+#     #     ls $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
+#     #     cd $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
+#     #     ./katalonc -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE/AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App"
+#     - name: Download Katalon Studio
+#       run: |
+#         Invoke-WebRequest -Uri "https://download.katalon.com/8.5.5/Katalon_Studio_Windows_64-8.5.5.zip" -OutFile katalon.zip
+#         Expand-Archive katalon.zip -DestinationPath $env:USERPROFILE
+#         Remove-Item katalon.zip
+
+#     - name: Install Katalon Runtime Engine
+#       run: |
+#         cd $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
+#         ls $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
+#         ls D:\a\automation-test\automation-test
+#         echo ${{ secrets.API_KEY }}
+#         ./katalon.exe -noSplash -runMode=console -consoleLog -noExit -projectPath="D:\a\automation-test\automation-test\AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true
+
+#     - name: Upload Test Results
+#       uses: actions/upload-artifact@v2
+#       with:
+#         name: Test Results
+#         path: D:\a\automation-test\automation-test\Reports
+
+To activate Katalon Studio in a GitHub Action workflow, you can use the katalon/katalon-activation Docker image. Here's an example workflow that activates Katalon Studio before running tests:
+
+name: Katalon Test
+
 on:
   push:
     branches:
       - main
+
 jobs:
-  katalon:
-    runs-on: windows-latest
-
+  test:
+    runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-
-    - name: Set up Java SDK
-      uses: actions/setup-java@v2
-      with:
-        java-version: '11'
-        distribution: 'adopt'
-
-    # - name: Install Katalon Studio
-    #   run: |
-    #     wget -O katalon.zip "https://github.com/katalon-studio/katalon-studio/releases/download/v8.3.5/Katalon_Studio_Engine_Linux_64-8.3.5.tar.gz"
-    #     tar -xzf katalon.zip -C $HOME
-    #     rm katalon.zip
-    #     ls $HOME
-
-    # - name: Run Katalon Studio tests
-    #   run: |
-    #     ls $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
-    #     cd $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
-    #     ./katalonc -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE/AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App"
-    - name: Download Katalon Studio
-      run: |
-        Invoke-WebRequest -Uri "https://download.katalon.com/8.5.5/Katalon_Studio_Windows_64-8.5.5.zip" -OutFile katalon.zip
-        Expand-Archive katalon.zip -DestinationPath $env:USERPROFILE
-        Remove-Item katalon.zip
-
-    - name: Install Katalon Runtime Engine
-      run: |
-        cd $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
-        ls $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
-        ls D:\a\automation-test\automation-test
+      - name: Check Variables
+        run: |
         echo ${{ secrets.API_KEY }}
-        ./katalon.exe -noSplash -runMode=console -consoleLog -noExit -projectPath="D:\a\automation-test\automation-test\AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true
+        echo ${{ secrets.KATALON_USERNAME }}
+        echo ${{ secrets.KATALON_PASSWORD }}
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Upload Test Results
-      uses: actions/upload-artifact@v2
-      with:
-        name: Test Results
-        path: D:\a\automation-test\automation-test\Reports
+      - name: Activate Katalon Studio
+        uses: docker://katalon/katalon-activation:latest
+        env:
+          KATALON_USERNAME: ${{ secrets.KATALON_USERNAME }}
+          KATALON_PASSWORD: ${{ secrets.KATALON_PASSWORD }}
+
+      - name: Run Katalon tests
+        uses: docker://katalonstudio/katalon:latest
+        with:
+          args: -browserType="Chrome" -retry=0 -statusDelay=15 -testSuitePath="Test Suites/4- Video App Suite - Feedback App"
+        env:
+          KATALON_USERNAME: ${{ secrets.KATALON_USERNAME }}
+          KATALON_API_KEY: ${{ secrets.API_KEY }}
