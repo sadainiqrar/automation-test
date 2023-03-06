@@ -14,10 +14,4 @@ katalon {
 
 dependencies {
     // Other dependencies...
-    testCompile group: 'com.kms.katalon', name: 'katalon-core', version: '8.0.0'
-    testCompile group: 'com.kms.katalon', name: 'katalon-utility', version: '1.0.5'
-    testCompile group: 'com.kms.katalon', name: 'katalon-recorder-util', version: '0.1.2'
-    testCompile group: 'com.kms.katalon', name: 'katalon-mobile-util', version: '0.0.1'
-    testCompile group: 'com.kms.katalon', name: 'katalon-analytics', version: '1.0.0'
-    testCompile group: 'org.apache.commons', name: 'commons-lang3', version: '3.4'
 }
