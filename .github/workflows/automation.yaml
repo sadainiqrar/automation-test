@@ -60,8 +60,6 @@
 #         name: Test Results
 #         path: D:\a\automation-test\automation-test\Reports
 
-To activate Katalon Studio in a GitHub Action workflow, you can use the katalon/katalon-activation Docker image. Here's an example workflow that activates Katalon Studio before running tests:
-
 name: Katalon Test
 
 on:
