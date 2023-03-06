@@ -33,8 +33,10 @@ jobs:
         wget -O katalon.zip "https://download.katalon.com/8.3.5/Katalon_Studio_Linux_64-8.3.5.tar.gz"
         tar -xzf katalon.zip -C $HOME
         rm katalon.zip
+        ls $HOME
 
     - name: Run Katalon Studio tests
       run: |
+        ls $HOME
         cd $HOME/Katalon_Studio_Linux_64-8.3.5
         ./katalonc -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE/AdminConcolev2.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App"
