@@ -22,9 +22,8 @@ jobs:
     - name: Set up Java SDK
       uses: actions/setup-java@v2
       with:
-        java-version: '11.0.13.hs-adpt'
-        distribution: 'sdk'
-        include: 'sdkman'
+        java-version: '11'
+        distribution: 'adopt'
 
     - name: Install Katalon Studio
       run: |
