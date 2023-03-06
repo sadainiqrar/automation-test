@@ -1,11 +1,3 @@
-      # ./katalonc -noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true"
-      # - name: Katalon Studio Github Action
-      #   uses: katalon-studio/katalon-studio-github-action@v2
-      #   with:
-      #     version: "7.5.5"
-      #     projectPath: "${{ github.workspace }}"
-      #     args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
-
 name: Automation CI
 
 # on:
@@ -40,26 +32,30 @@ jobs:
     #     ls $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
     #     cd $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
     #     ./katalonc -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE/AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App"
-    - name: Download Katalon Studio
-      run: |
-        Invoke-WebRequest -Uri "https://download.katalon.com/8.5.5/Katalon_Studio_Windows_64-8.5.5.zip" -OutFile katalon.zip
-        Expand-Archive katalon.zip -DestinationPath $env:USERPROFILE
-        Remove-Item katalon.zip
+    # - name: Download Katalon Studio
+    #   run: |
+    #     Invoke-WebRequest -Uri "https://download.katalon.com/8.5.5/Katalon_Studio_Windows_64-8.5.5.zip" -OutFile katalon.zip
+    #     Expand-Archive katalon.zip -DestinationPath $env:USERPROFILE
+    #     Remove-Item katalon.zip
 
-    - name: Install Katalon Runtime Engine
-      run: |
-        cd $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
-        ls $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
-        ls D:\a\automation-test\automation-test
-        echo ${{ secrets.API_KEY }}
-        ./katalon.exe -noSplash -runMode=console -consoleLog -noExit -projectPath="D:\a\automation-test\automation-test\AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true
+    # - name: Install Katalon Runtime Engine
+    #   run: |
+    #     cd $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
+    #     ls $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
+    #     ls D:\a\automation-test\automation-test
+    #     echo ${{ secrets.API_KEY }}
+    #     ./katalon.exe -noSplash -runMode=console -consoleLog -noExit -projectPath="D:\a\automation-test\automation-test\AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true
      
+    - name: check files
+      run: |
+        ls D:\a\automation-test\automation-test
+        ls D:\a\automation-test\automation-test\Test Suites
     - name: Katalon Studio Github Action
       uses: katalon-studio/katalon-studio-github-action@v2
       with:
           version: "8.5.5"
           projectPath: "${{ github.workspace }}"
-          args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
+          args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/2- Campaign Management Suite" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
 
     - name: Upload Test Results
       uses: actions/upload-artifact@v2
