@@ -8,9 +8,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Katalon Studio Github Action
-        uses: katalon-studio/katalon-studio-github-action@v2
+      - name: Setup JDK
+        uses: actions/setup-java@v2
         with:
-          version: "7.5.5"
-          projectPath: "${{ github.workspace }}"
-          args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
+          java-version: '11'
+      - name: Download and Install Dependencies
+        run: |
+          ./gradlew clean
+          ./gradlew test --no-daemon
+      - name: Run Katalon Studio Tests
+        run: |
+          ./katalonc -noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true"
+      # - name: Katalon Studio Github Action
+      #   uses: katalon-studio/katalon-studio-github-action@v2
+      #   with:
+      #     version: "7.5.5"
+      #     projectPath: "${{ github.workspace }}"
+      #     args: '-noSplash -retry=0 -testSuiteCollectionPath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
