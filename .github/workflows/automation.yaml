@@ -42,4 +42,4 @@ jobs:
       run: |
         ls $HOME/Katalon_Studio_Linux_64-7.9.1
         cd $HOME/Katalon_Studio_Linux_64-7.9.1
-        ./katalonc $KATALON_OPTS
+        ./katalon $KATALON_OPTS
