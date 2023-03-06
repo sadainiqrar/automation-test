@@ -51,7 +51,7 @@ jobs:
         cd $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
         ls
         echo $GITHUB_WORKSPACE
-        ./katalon.exe -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE\AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true"
+        ./katalon.exe -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE\AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true
 
 
     - name: Upload Test Results
