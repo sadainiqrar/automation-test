@@ -37,9 +37,9 @@ jobs:
 
     - name: Run Katalon Studio tests
       env:
-        KATALON_ROOT_DIR: $HOME/Katalon_Studio_Linux_64-7.9.1
+        # KATALON_ROOT_DIR: $HOME/Katalon_Studio_Linux_64-7.9.1
         KATALON_OPTS: -runMode=console -projectPath=$GITHUB_WORKSPACE/AdminConcolev2.prj -retry=0 -testSuitePath=Test Suites/4- Video App Suite - Feedback App
       run: |
         ls $HOME/Katalon_Studio_Linux_64-7.9.1
-        cd $KATALON_ROOT_DIR
+        cd $HOME/Katalon_Studio_Linux_64-7.9.1
         ./katalonc $KATALON_OPTS
