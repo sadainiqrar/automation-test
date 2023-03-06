@@ -50,6 +50,9 @@ jobs:
       run: |
         cd $env:USERPROFILE\Katalon_Studio_Windows_64-8.5.5
         ls D:\
+        ls D:\a
+        ls D:\a\automation-test
+        ls D:\a\automation-test\automation-test
         echo $GITHUB_WORKSPACE
         ./katalon.exe -noSplash -runMode=console -consoleLog -noExit -projectPath="D:\a\automation-test\automation-test\AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true
 
