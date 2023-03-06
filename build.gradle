@@ -7,10 +7,15 @@ repositories {
   mavenCentral()
 }
 
+katalon {
+    runMode = 'DEBUG_MODE'
+}
+
+
 dependencies {
   // sample dependencies
   // rest-assured
-  // compile 'io.rest-assured:rest-assured:3.2.0'
+  compile 'com.kms.katalon.core'
   // JsonPath
   // compile 'io.rest-assured:json-path:3.2.0'
   // XmlPath
