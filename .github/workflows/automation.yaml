@@ -37,6 +37,6 @@ jobs:
 
     - name: Run Katalon Studio tests
       run: |
-        ls $HOME
+        ls $HOME/Katalon_Studio_Linux_64-8.3.5
         cd $HOME/Katalon_Studio_Linux_64-8.3.5
         ./katalonc -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE/AdminConcolev2.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App"
