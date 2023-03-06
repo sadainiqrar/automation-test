@@ -16,7 +16,7 @@ on:
       - main
 jobs:
   katalon:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     - name: Checkout code
@@ -28,15 +28,25 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
 
-    - name: Install Katalon Studio
-      run: |
-        wget -O katalon.zip "https://github.com/katalon-studio/katalon-studio/releases/download/v8.3.5/Katalon_Studio_Engine_Linux_64-8.3.5.tar.gz"
-        tar -xzf katalon.zip -C $HOME
-        rm katalon.zip
-        ls $HOME
+    # - name: Install Katalon Studio
+    #   run: |
+    #     wget -O katalon.zip "https://github.com/katalon-studio/katalon-studio/releases/download/v8.3.5/Katalon_Studio_Engine_Linux_64-8.3.5.tar.gz"
+    #     tar -xzf katalon.zip -C $HOME
+    #     rm katalon.zip
+    #     ls $HOME
 
-    - name: Run Katalon Studio tests
+    # - name: Run Katalon Studio tests
+    #   run: |
+    #     ls $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
+    #     cd $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
+    #     ./katalonc -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE/AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App"
+    - name: Download Katalon Studio
       run: |
-        ls $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
-        cd $HOME/Katalon_Studio_Engine_Linux_64-8.3.5
-        ./katalonc -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE/AdminConcolev2.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App"
+        Invoke-WebRequest -Uri "https://download.katalon.com/8.3.5/Katalon_Studio_Windows_64-8.3.5.zip" -OutFile katalon.zip
+        Expand-Archive katalon.zip -DestinationPath $env:USERPROFILE
+        Remove-Item katalon.zip
+
+    - name: Install Katalon Runtime Engine
+      run: |
+        cd $env:USERPROFILE\Katalon_Studio_Windows_64-8.3.5
+        ./katalon.exe -noSplash -runMode=console -consoleLog -noExit -projectPath="$GITHUB_WORKSPACE/AdminConsole.prj" -retry=0 -testSuitePath="Test Suites/4- Video App Suite - Feedback App"
