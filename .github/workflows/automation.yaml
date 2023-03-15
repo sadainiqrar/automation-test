@@ -50,7 +50,7 @@ jobs:
       with:
           version: "8.5.5"
           projectPath: "${{ github.workspace }}"
-          args: '-noSplash -retry=0 -browserType=Chrome -executionProfile="Dev Environment" -statusDelay=15 -testSuitePath="Test Suites/2- Campaign Management Suite" -reportFolder="Reports" -reportFileName="report.html -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
+          args: '-noSplash -retry=0 -browserType=Chrome -executionProfile="Dev Environment" -statusDelay=15 -testSuitePath="Test Suites/2- Campaign Management Suite" -reportFolder="Reports" -reportFileName="report.html -apiKey=c8fc9285-b21e-4867-a294-4d2d047a8a4f --config -webui.autoUpdateDrivers=true'
           # args: '-noSplash -retry=0 -browserType=Safari -executionProfile="Dev Environment" -statusDelay=15 -testSuitePath="Test Suites/2- Campaign Management Suite" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
 
 
