@@ -60,6 +60,10 @@ jobs:
         name: Test Results
         path: D:\a\automation-test\automation-test\Reports
 
+    # - name: Check for failed tests
+    #   run: |
+    #     if grep -q "Failures: 0" Reports/report.html; then echo "All tests passed"; else echo "Some tests failed"; exit 1; fi
+
     - name: Check for failed tests
       run: |
-        if grep -q "Failures: 0" Reports/report.html; then echo "All tests passed"; else echo "Some tests failed"; exit 1; fi
+        if (Select-String -Path Reports\report.html -Pattern "Failures: 0") { echo "All tests passed" } else { echo "Some tests failed"; exit 1 }
