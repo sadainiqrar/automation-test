@@ -50,14 +50,16 @@ jobs:
       with:
           version: "8.5.5"
           projectPath: "${{ github.workspace }}"
-          args: '-noSplash -retry=0 -browserType=Chrome -executionProfile="Dev Environment" -statusDelay=15 -testSuitePath="Test Suites/2- Campaign Management Suite" -reportFolder="Reports" -reportFileName="report.html -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true' -reportFolder="Reports" -reportFileName="report.html"
+          args: '-noSplash -retry=0 -browserType=Chrome -executionProfile="Dev Environment" -statusDelay=15 -testSuitePath="Test Suites/2- Campaign Management Suite" -reportFolder="Reports" -reportFileName="report.html -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
           # args: '-noSplash -retry=0 -browserType=Safari -executionProfile="Dev Environment" -statusDelay=15 -testSuitePath="Test Suites/2- Campaign Management Suite" -apiKey= ${{ secrets.API_KEY }} --config -webui.autoUpdateDrivers=true'
-    - name: check test cases
-      run: | 
-        if grep -q "Failures: 0" Reports/report.html; then echo "All tests passed"; else echo "Some tests failed"; exit 1; fi
+
 
     - name: Upload Test Results
       uses: actions/upload-artifact@v2
       with:
         name: Test Results
-        path: D:\a\automation-test\automation-test\Reports
+        path: Reports
+
+    - name: check test cases
+      run: | 
+        if grep -q "Failures: 0" Reports/report.html; then echo "All tests passed"; else echo "Some tests failed"; exit 1; fi
